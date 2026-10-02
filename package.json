@@ -1,0 +1,13 @@
+{
+  "name": "ituzaingostudio-branding",
+  "private": true,
+  "description": "Ituzaingó logo files. Rebuild with: npm install && npm run build",
+  "scripts": {
+    "build": "node build.js ."
+  },
+  "dependencies": {
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "@resvg/resvg-js": "^2.6.2",
+    "opentype.js": "^2.0.0"
+  }
+}
